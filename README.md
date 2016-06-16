@@ -76,8 +76,8 @@ In addition to the above mentioned resources, Triangulation using Basic Count Ba
 ---
 
 ## Authors
-- Deepak Patil, CFILT, IIT Bombay
-- Harshad Chavan, CFILT, IIT Bombay
+- **Deepak Patil**, CFILT, IIT Bombay
+- **Harshad Chavan**, CFILT, IIT Bombay
 
 ---
 
